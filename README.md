@@ -8,7 +8,7 @@ then   Slim 3.0 and Laravel eloquent model are installed and located in vendor f
 
 step 2
 
-Please create a  database in local db.You can see a database  folder in root please open it and export it to  your local db or run the sql code.(users is the table name)
+Please create a  database in local db.You can see a database  folder in root please open it and export it to  your local db or run the sql code.(users is the table name).Set your db name,user name,password etc in creds.php located  in config folder.
 
 step 3
 
