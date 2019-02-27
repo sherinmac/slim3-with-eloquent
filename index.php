@@ -4,6 +4,7 @@ require 'vendor/autoload.php';
 include 'dbboot.php';
 
 use User\Models\User;
+use Illuminate\Database\Capsule\Manager as DB;
 
 
 $app = new \Slim\App([
