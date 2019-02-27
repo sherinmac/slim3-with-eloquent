@@ -18,3 +18,4 @@ $capsule->addConnection([
 ]);
 
 $capsule->bootEloquent();
+$capsule->setAsGlobal();
